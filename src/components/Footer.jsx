@@ -23,7 +23,6 @@ export const Footer = () => {
               <h3>All Premium Tools</h3>
               <p>Digital subscriptions for AI, design, video, productivity, learning, development and professional work.</p>
               <div className="socials">
-                <span>f</span><span>in</span><span>ig</span><span>wa</span>
               </div>
             </div>
 
