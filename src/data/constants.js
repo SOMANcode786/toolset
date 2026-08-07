@@ -1,10 +1,10 @@
-export const WHATSAPP_NUMBER = '9230320465542';
+export const WHATSAPP_NUMBER = '03171597536';
 
 export const whatsappLink = (message) =>
   `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
 
 export const linkedinPlans = [
-  {
+  { 
     id: 'sales-new',
     mark: 'in',
     color: '#0a66c2',

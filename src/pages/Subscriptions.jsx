@@ -1,7 +1,7 @@
 import React from 'react';
 import { PageHero } from '../components/Sections';
 import { ProductSection } from '../components/ProductCard';
-import { LinkedInPremiumSection } from '../components/LinkedInPremiumSection';
+import { LinkedInPromoSection } from '../components/LinkedInPromoSection';
 import { allTools } from '../data/constants';
 
 export const Subscriptions = () => {
@@ -12,7 +12,7 @@ export const Subscriptions = () => {
         title="Choose the plan that matches your work"
         description="Browse the complete catalogue with the exact plan, duration and PKR price shown for every available option."
       />
-      <LinkedInPremiumSection />
+      <LinkedInPromoSection />
       <ProductSection
         eyebrow="Complete catalogue"
         title="All digital tools"
